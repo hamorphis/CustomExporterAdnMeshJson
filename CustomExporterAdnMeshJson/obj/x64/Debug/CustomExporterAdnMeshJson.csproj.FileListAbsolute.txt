@@ -1,4 +1,0 @@
-C:\work\github\CustomExporterAdnMeshJson\CustomExporterAdnMeshJson\bin\x64\Debug\CustomExporterAdnMeshJson.dll
-C:\work\github\CustomExporterAdnMeshJson\CustomExporterAdnMeshJson\bin\x64\Debug\CustomExporterAdnMeshJson.pdb
-C:\work\github\CustomExporterAdnMeshJson\CustomExporterAdnMeshJson\obj\x64\Debug\CustomExporterAdnMeshJson.dll
-C:\work\github\CustomExporterAdnMeshJson\CustomExporterAdnMeshJson\obj\x64\Debug\CustomExporterAdnMeshJson.pdb
